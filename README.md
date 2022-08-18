@@ -9,8 +9,6 @@ Portfólio de projetos de data science
 </p>
 
 
-<img  alt="Alt text" src="/images/banner.jpeg">
-
 ## Projetos:
 Veja os artigos publicados com os links abaixo:
 
