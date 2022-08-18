@@ -13,6 +13,6 @@ Portfólio de projetos de data science
 Veja os artigos publicados com os links abaixo:
 
 * **Crude Data Analysis of London's Airbnb data:** [London Data Analysis](https://colab.research.google.com/drive/1vc8mKj7OL-rw1udNtnbbbd7c4Wy-rau-)
-* **Wordcloud of London's Airbnb Description data:** [WordCloud](https://colab.research.google.com/drive/1NNlYmhw-lRX13lce6rr8jzR4J_q5CHsU)
+* **Wordcloud of London's Airbnb Description data:** [London Description WordCloud](https://colab.research.google.com/drive/1NNlYmhw-lRX13lce6rr8jzR4J_q5CHsU)
 
 ---
