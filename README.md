@@ -14,5 +14,5 @@ Veja os artigos publicados com os links abaixo:
 
 * **Crude Data Analysis of London's Airbnb data:** [London Data Analysis](https://colab.research.google.com/drive/1vc8mKj7OL-rw1udNtnbbbd7c4Wy-rau-)
 * **Wordcloud of London's Airbnb Description data:** [London Description WordCloud](https://colab.research.google.com/drive/1NNlYmhw-lRX13lce6rr8jzR4J_q5CHsU)
-
+* **GDP World Analysis with Bar Chart Race**[10 Biggest World Economies](https://colab.research.google.com/drive/1GFhm9fxWR4kTC75Bw7MdNF6g7gYa1khY)
 ---
